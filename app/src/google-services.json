@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "881090040437",
+    "firebase_url": "https://orderingsystem-30807.firebaseio.com",
+    "project_id": "orderingsystem-30807",
+    "storage_bucket": "orderingsystem-30807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881090040437:android:33c992e2dcdcd3fc",
+        "android_client_info": {
+          "package_name": "com.greenhill.orderingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881090040437-2uuogate37196h2cqt8ve49a2qb36bk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenhill.orderingsystem",
+            "certificate_hash": "05498f5be9776da73ded6ddd7b38dc2b466c61f8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLot9Sdk2pfS9jUN07ErJ3NPZC4IOTa68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881090040437-uvk972lj8kbujgcbqm1db65rljkkb4c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
